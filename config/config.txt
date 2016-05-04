@@ -1,0 +1,19 @@
+users
+A	123
+B	123
+C	123
+D	123
+E	123
+groups
+A	G1	B,E
+A	G2	D
+B	G3	A,C
+C	G4	B,D
+D	G5	A,C
+E	G6	A
+friends
+A	B,E,D
+B	A,C
+C	B,D
+D	A,C
+E	A
